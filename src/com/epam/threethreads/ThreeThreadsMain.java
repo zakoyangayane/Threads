@@ -31,25 +31,5 @@ public class ThreeThreadsMain {
                 }
             }
         }
-
-//        SecondThread secondThread = new SecondThread();
-//        secondThread.start();
-//        Thread thirdThread = new Thread(new ThirdThread());
-//        thirdThread.start();
-
-//        try {
-//            // First thread
-//            firstThread.start();
-//            firstThread.join();
-//            // Second thread
-//            secondThread.start();
-//            secondThread.join();
-//            // Third thread
-//            thirdThread.start();
-//            thirdThread.join();
-//        } catch (InterruptedException e) {
-//             TODO Auto-generated catch block
-//            e.printStackTrace();
-//        }
     }
 }

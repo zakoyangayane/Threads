@@ -1,4 +1,4 @@
-package com.epam.onebyone;
+package com.epam.twothreads;
 
 public class Main {
     public static void main(String[] args) {
